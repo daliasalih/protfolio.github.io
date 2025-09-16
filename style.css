@@ -1,0 +1,21 @@
+body{
+ background-image: url("https://cgaskell9367.wordpress.com/wp-content/uploads/2015/04/watercolor3.jpg");
+   
+
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat;
+  width: 100vw;
+  height: 100vh;
+  padding: 20%;
+  text-align: center;
+  padding-left: -50%;
+  font-family: 'Times New Roman', Times, serif;
+  position: relative;
+}
+h1 {
+  color: blue;
+}
+h2{
+ color: lightskyblue; 
+}
